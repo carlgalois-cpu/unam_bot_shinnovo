@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "pregunta": "¿Qué figura literaria consiste en la repetición de una palabra o frase al inicio de versos u oraciones?",
+        "opciones": ["Anáfora", "Metáfora", "Hipérbaton", "Asíndeton"],
+        "respuesta": 0,
+        "mnemotecnia": "Anáfora empieza con A, como 'Al inicio' repite.",
+        "nivel": 1
+    },
+    {
+        "id": 2,
+        "pregunta": "¿Cuál es el sujeto de la oración: 'Los estudiantes estudian para el examen'?",
+        "opciones": ["Los estudiantes", "estudian", "para el examen", "examen"],
+        "respuesta": 0,
+        "mnemotecnia": "El sujeto es quien realiza la acción: ¿quién estudia? Los estudiantes.",
+        "nivel": 1
+    }
+]
